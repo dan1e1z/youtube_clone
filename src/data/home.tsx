@@ -19,97 +19,109 @@ export const categories = [
 export const videos = [
   {
     id: "1",
-    title: "CSS Anchor Is The Best New CSS Feature Since Flexbox",
+    title: "girl in red: Tiny Desk Concert",
     channel: {
-      name: "Web Dev Simplified",
-      id: "WebDevSimplified",
+      name: "NPR Music",
+      id: "NPRMusic",
       profileUrl:
-        "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
+        "https://yt3.ggpht.com/grYnKlJqtiAVU0Z5zs9nR-lJEq4Qz28iZxcFKr4fCPJpchHRMwZYBU-Ag-AFGRrAZF9ozJHJww=s68-c-k-c0x00ffffff-no-rj",
     },
-    views: 222536,
-    postedAt: new Date("2023-08-29"),
-    duration: 938,
-    thumbnailUrl: "https://i.ytimg.com/vi/B4Y9Ed4lLAI/maxresdefault.jpg",
+    views: 320536,
+    postedAt: new Date("2024-12-9"),
+    duration: 1026,
+    thumbnailUrl:
+      "https://i.ytimg.com/vi/cXYgdCXkLMc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDBbjP8hsRrBHLglXAix0wK4ETF3A",
     videoUrl:
       "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
+
   {
     id: "2",
-    title: "NEW Way To Create Variables In JavaScript",
+    title: "1 9 9 2",
     channel: {
-      name: "Web Dev Simplified",
-      id: "WebDevSimplified",
+      name: "blurry tunes",
+      id: "BlurryTunes",
       profileUrl:
-        "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
+        "https://yt3.ggpht.com/GPJJbLYkFTgbwo4ndoGG1MI4onEciy_vD2KIYhCWXI9OVsJzocFKbDPmga9mmhYxuE7YyC8eeS4=s88-c-k-c0x00ffffff-no-rj",
     },
-    views: 257136,
-    postedAt: new Date("2023-08-22"),
-    duration: 732,
-    thumbnailUrl: "https://i.ytimg.com/vi/d6a8RymS1zI/maxresdefault.jpg",
+    views: 1800,
+    postedAt: new Date("2022-07-7"),
+    duration: 6180,
+    thumbnailUrl:
+      "https://i.ytimg.com/vi/mCoDlEJsYYk/hq720.jpg?sqp=-…BACGAY4AUAB&rs=AOn4CLDfg8sBHeeBrQFK9tYUnmjN24MN6w",
     videoUrl:
       "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
+
   {
     id: "3",
-    title: "Front-end developer takes on a CSS battle",
+    title:
+      "Ryo Fukui - My Favorite Tune (full album) [Piano Jazz] [Japan, 1995]",
     channel: {
-      name: "Kevin Powell",
-      id: "KevinPowell",
+      name: "Marcel the Drunkard",
+      id: "MarcelTheDrunkard",
       profileUrl:
-        "https://yt3.ggpht.com/ytc/APkrFKa6XiLa13mMVPzkmmTBcgNPjjqCGPrY86KfJFmf5w=s48-c-k-c0x00ffffff-no-rj",
+        "https://yt3.ggpht.com/5vfV35THJdeEvHHJMXSsVSYKdVSXuK2eIkNcxHUQQWsYGEulMJYgX2OpIjcEE-0GabWMj0NT=s68-c-k-c0x00ffffff-no-rj",
     },
-    views: 1232300,
-    postedAt: new Date("2023-10-05"),
-    duration: 120,
-    thumbnailUrl: "https://i.ytimg.com/vi/eYPyIq5Y3Rk/maxresdefault.jpg",
+    views: 4000000,
+    postedAt: new Date("2023-04-20"),
+    duration: 2614,
+    thumbnailUrl:
+      "https://i.ytimg.com/vi/XXKh50tgnGw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBMWUfq-ji9Xd9bqK08sUK4bI0JBg",
     videoUrl:
       "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
+
   {
     id: "4",
-    title: "Quick guide to CSS focus states",
+    title: "(a). all-in",
     channel: {
-      name: "Kevin Powell",
-      id: "KevinPowell",
+      name: "what is ?",
+      id: "WhatIs?",
       profileUrl:
-        "https://yt3.ggpht.com/ytc/APkrFKa6XiLa13mMVPzkmmTBcgNPjjqCGPrY86KfJFmf5w=s48-c-k-c0x00ffffff-no-rj",
+        "https://yt3.ggpht.com/JA4WQvCPXn95bMuYYFvJ1fB9rgrhXSHlwk3Dm0rS8wiQeiceqUC97hX7IZuKjvxmx6AL3EL6=s88-c-k-c0x00ffffff-no-rj",
     },
-    views: 112,
-    postedAt: new Date("2023-9-19"),
-    duration: 4343,
-    thumbnailUrl: "https://i.ytimg.com/vi/apdD69J4bEc/maxresdefault.jpg",
+    views: 621000,
+    postedAt: new Date("2025-01-2"),
+    duration: 6352,
+    thumbnailUrl:
+      "https://i.ytimg.com/vi/32NqplGkT5w/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGEMgZSg2MA8=&rs=AOn4CLB4ic6NSj-_vi9JxjadQmyR527wfg",
     videoUrl:
       "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
+
   {
     id: "5",
-    title: "I Cannot Believe React Made A Hook For This",
+    title: "Vim As Your Editor - Introduction",
     channel: {
-      name: "Web Dev Simplified",
-      id: "WebDevSimplified",
+      name: "ThePrimeagon",
+      id: "ThePrimeagon",
       profileUrl:
-        "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
+        "https://yt3.ggpht.com/ytc/AIdro_laY82JAzs_2edBDxrxLgLWshhMK04SpAqOfoEzexOBZg=s68-c-k-c0x00ffffff-no-rj",
     },
-    views: 42345,
-    postedAt: new Date("2023-03-02"),
-    duration: 1000,
-    thumbnailUrl: "https://i.ytimg.com/vi/M3mGY0pgFk0/maxresdefault.jpg",
+    views: 1000000,
+    postedAt: new Date("2023-02-6"),
+    duration: 744,
+    thumbnailUrl:
+      "https://i.ytimg.com/vi/X6AR2RMB5tE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDGhd8es2ezrBc-Qo1oX8rYCInLPQ",
     videoUrl:
       "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
+
   {
     id: "6",
-    title: "I Got Laid Off...",
+    title: "Interview with a VIM Enthusiast",
     channel: {
-      name: "Caleb Curry",
-      id: "CalebCurry",
+      name: "Programmers are also human",
+      id: "ProgrammersAreAlsoHuman",
       profileUrl:
-        "https://yt3.googleusercontent.com/ytc/APkrFKbpSojje_-tkBQecNtFuPdSCrg3ZT0FhaYjln9k0g=s176-c-k-c0x00ffffff-no-rj",
+        "https://yt3.ggpht.com/ytc/AIdro_n3imu9phINHcHMX98dOj0gDrk8zpUUkiNoS8-tEL8dGQ=s68-c-k-c0x00ffffff-no-rj",
     },
-    views: 10340,
-    postedAt: new Date("2023-03-03"),
-    duration: 54,
-    thumbnailUrl: "https://i.ytimg.com/vi/i2JVQdLnkAY/maxresdefault.jpg",
+    views: 964000,
+    postedAt: new Date("2024-06-29"),
+    duration: 280,
+    thumbnailUrl:
+      "https://i.ytimg.com/vi/9n1dtmzqnCU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCL9UJfNqH0VHFAVUiqiit0xMI_lg",
     videoUrl:
       "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
@@ -123,7 +135,7 @@ export const videos = [
         "https://yt3.googleusercontent.com/ytc/APkrFKb--NH6RwAGHYsD3KfxX-SAgWgIHrjR5E4Jb5SDSQ=s176-c-k-c0x00ffffff-no-rj",
     },
     views: 10323340,
-    postedAt: new Date("2023-08-09"),
+    postedAt: new Date("2022-08-09"),
     duration: 100,
     thumbnailUrl: "https://i.ytimg.com/vi/mVKAyw0xqxw/maxresdefault.jpg",
     videoUrl:
@@ -142,6 +154,23 @@ export const videos = [
     postedAt: new Date("2023-09-09"),
     duration: 105,
     thumbnailUrl: "https://i.ytimg.com/vi/kxT8-C1vmd4/maxresdefault.jpg",
+    videoUrl:
+      "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+  },
+  {
+    id: "9",
+    title: "Anderson .Paak & The Free Nationals: NPR Music Tiny Desk Concert",
+    channel: {
+      name: "NPR Music",
+      id: "NPRMusic",
+      profileUrl:
+        "https://yt3.ggpht.com/grYnKlJqtiAVU0Z5zs9nR-lJEq4Qz28iZxcFKr4fCPJpchHRMwZYBU-Ag-AFGRrAZF9ozJHJww=s68-c-k-c0x00ffffff-no-rj",
+    },
+    views: 113000000,
+    postedAt: new Date("2024-09-09"),
+    duration: 938,
+    thumbnailUrl:
+      "https://i.ytimg.com/vi/ferZnZ0_rSM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBE7ndMopCKt2LFTplRhOa9gYtrgg",
     videoUrl:
       "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
