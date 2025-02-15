@@ -1,6 +1,6 @@
 # YouTube Home Page Clone
 
-This project is a simplified YouTube home page built with **React, TypeScript, and Tailwind CSS**. It replicates the visual design of YouTube's main page but does not include full functionality such as video playback, authentication, or API integrations.
+This project is a simplified YouTube home page built with **React, TypeScript, and Tailwind CSS**. It replicates the visual design of YouTube's main page but does not include full functionality such as authentication, or API integrations.
 
 ## Features
 - Responsive YouTube-style layout
